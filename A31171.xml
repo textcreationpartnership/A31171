@@ -1,0 +1,874 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quæries propounded to George Fox and his ministers to answer from a paper wrote by George Fox, intituled An epistle from the people called Quakers to all people to read over ... / by a lover of our Lord Jesus Christ, the Son of God, who was born of the Virgin Mary by the power of the Holy Ghost for the Christ and mans saviour, as that promised seed that God to Adam said should break the Serpents head.</title>
+            <author>R. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31171</idno>
+            <idno type="STC">Wing C113</idno>
+            <idno type="STC">ESTC R29621</idno>
+            <idno type="EEBO-CITATION">11182562</idno>
+            <idno type="OCLC">ocm 11182562</idno>
+            <idno type="VID">46578</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31171)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46578)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1437:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Quæries propounded to George Fox and his ministers to answer from a paper wrote by George Fox, intituled An epistle from the people called Quakers to all people to read over ... / by a lover of our Lord Jesus Christ, the Son of God, who was born of the Virgin Mary by the power of the Holy Ghost for the Christ and mans saviour, as that promised seed that God to Adam said should break the Serpents head.</title>
+                  <author>R. C.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Anna Brewster ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with loss of print.</note>
+                  <note>Signed: R.C.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fox, George, 1624-1691. --  Epistle from the people in scorn called Quakers, to all people upon the earth.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46578:1"/>
+            <pb facs="tcp:46578:1" rendition="simple:additions"/>
+            <p>QUAERIES PROPOUNDED, TO GEORGE FOX AND HIS <hi>Miniſters.</hi> To anſwer from a paper wrote
+by <hi>George Fox,</hi> intituled, <hi>An Epiſtle from the People called Quakers to all people to
+read over, of what they hold concerning God, Chriſt, his Death, Reſurrection, Redemption,
+Salvation, Juſtification, Blood, Faith and Hope.</hi>
+            </p>
+            <p>By a LOVER of our <hi>Lord Jeſus Chriſt,</hi> the Son of God, who was born of the <hi>Virgin
+Mary,</hi> by the power of the holy Ghoſt, for the CHRIST and Mans SAVIOUR, as that promiſed
+Seed, that God to <hi>Adam</hi> ſaid ſhould break tde Serpents head.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Anna Brewſter,</hi> at the Golden Bel<g ref="char:EOLhyphen"/>lows in
+<hi>Fore-ſtreet,</hi> againſt the firſt <hi>Poſtern</hi> near <hi>Cripplegate.</hi>
+1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:46578:2"/>
+            <pb n="1" facs="tcp:46578:2"/>
+            <head>Quaeries Propounded.</head>
+            <p>BUt being not ignorant that theſe aſſertors affirm the witneſſeſe in conſcience to
+be God, Chriſt light and Saviour, and as ſuch teach obedience for <hi>Salvation;</hi> which
+witneſs being but a mans own Spirrit, as to it that worme of conſcience that never dyeth, I
+muſt againſt this doctrin teſtifie that the witneſs in conſcience in it ſelf is neither
+God, nor Chriſt, nor breaker of the Serpents head for as aforeſaid the witneſs in the
+conſcience being that worm in the heart that gnaws the conſcience when its book is ſet open,
+as <hi>Solomon calls a wounded ſpirit that who can bear?</hi> is but the ſpirit in and of man
+that God in man hath placed as man is his creature, to bear witneſs for God and for it ſelf;
+and being forewarned by God from his law placed in mans heart to keep him obedient thereunto, which
+he not obeying is left without excuſe, it bearing record to the con<g ref="char:EOLhyphen"/>demning Juſtice of God for
+originall ſin, and in that man will not receive the grace tendred by God through Jeſus
+Chriſt, who is the way, and means that God of grace hath found out to ſave man, by believing on
+his name: is from the pride of his heart, and ſelf-willed of ſpirit account<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:46578:3"/> it two low for his exalted heart; and thus from his pride put off from him ſo
+great grace that God hath offered to him by Chriſt, and thence deſpiſeth his fleſh, and
+trampled his blood under his foot, as not ſufficient for him in it to truſt not allowing him
+for Saviour; but [if anything] <hi>only an examples:</hi> And thence being turned from
+<hi>him,</hi> the <hi>way,</hi> by whom cometh eternall life, ſet up the creature all ſpirit in
+conſcience for <hi>Chriſt,</hi> and his light.</p>
+            <p>But in that you ſay, you own all that the Scriptures teach, I [ho<g ref="char:EOLhyphen"/>ping theſe
+miſapprehenſions may therefore be reduced to truth, am put upon the aſſerting this point,
+that the witneſs in the Conſci<g ref="char:EOLhyphen"/>ence is not the Creator, but that, that the Creator hath made
+and putting confidence upon it for God and Chriſt, it being but a created ſpirit that God in
+man hath plac't, ſets up the works of his hands for God inſtead of himſelf; and
+conſequently makes man to be God and Chriſt: not conſidering that God hath made nature but a
+ſubſtance for producing of his creatures by his <hi>word,</hi> by whom he created them in their
+multiplicities of diſtinctions; colours, and ſhapes, and having created man a ruler of his
+hoſt, he as Soveraign Lord over him, eſtabliſheth a law, as his holy decree to him, not to
+aſpire beyond the right of his make, upon penalty of incurring eter<g ref="char:EOLhyphen"/>nal death; which came to
+paſs by tranſgreſſion: but God ſeeing into what a deplorable ſtate man had brought
+himſelf into, of grace promiſed to him, a reſtorer that ſhould break the Serpents head; who
+being <hi>Chriſt,</hi> that <hi>promiſed ſeed</hi> as born of the Virgin <hi>Mary,</hi> the
+anointed for a Saviour, is <hi>him,</hi> the Chriſt of God that he gave for a Saviour to the ends
+of the earth; who being <hi>him,</hi> God gave the power too open the book, and to break of the
+ſeals, he is <hi>he</hi> that brings man out of the priſon houſe of nature, into his holy
+habitation of grace: and <hi>he</hi> being anointed for a Saviour from his receiveing of the Spirit
+without mea<g ref="char:EOLhyphen"/>ſure, doth ſhew in that he received, that Chriſt is man, and not the eter<g ref="char:EOLhyphen"/>nal
+father as God; for his receiveing from gift proves the giver one thing, and him to whom it is given
+another: and he being the ſecond <hi>Adam</hi> though Lord from heaven, as he is God, it as he is
+the ſon of man is that ſecond <hi>Adam</hi> to reſtore man which the firſt <hi>Adam</hi>
+brought into the curſe: he is humane as being made of woman that was of the li<g ref="char:EOLhyphen"/>nage
+<pb n="3" facs="tcp:46578:3"/> of <hi>David</hi> and in that capacity the taker away of ſin, for ſaith the
+Scriptures, <hi>as ſin by one man reigned over all and death by ſin, ſo by one man )that is
+Chriſt) ſhall life reign over many; and as by one man all did dye, ſo by one man ſhall all
+be made alive; and not as it was by one that ſinned ſo is the gift, for the judgement was by
+one to condemnation, but the free gift is of many offencies unto juſtification;</hi> he having
+bought us by his blood, which be<g ref="char:EOLhyphen"/>ing blood of his body that was united to the God-head,
+<hi>he,</hi> as he is thus united is <hi>God and man in that perſon;</hi> and therefore the blood
+he ſhed forth of his perſon for an atonement with God, being blood in this high conjunction,
+was not blood as mans is blood, but was the blood of God: from whence it is not unſufficient that
+it cannot attone, but hath with God attoned for man that in it hath faith; it being the blood of
+the Lamb of God that hath taken away the ſins of the world, who ſuf<g ref="char:EOLhyphen"/>fered by <hi>Pontius
+Pilate,</hi> who hung him on a tree.</p>
+            <p>From whence we quaery, for that you ſay, you own all that the ſcriptures preach of Chriſt,
+his Birth, Miracles, Sufferings, Death, Reſurrection and Blood, with all the promiſes that
+relates to him.</p>
+            <p>Whether you own <hi>Chriſt, God-man;</hi> in his <hi>Perſon</hi> to conſiſt of na<g ref="char:EOLhyphen"/>ture
+divine and nature humane, and in that capacity to be the <hi>Christ,</hi> or the <hi>light in the
+conſcience</hi> without the two natures in that perſon to be <hi>Chriſt and Saviour?</hi>
+explain, for ſaith the ſcriptures that as to his man<g ref="char:EOLhyphen"/>hood he came of the <hi>ſtem of
+Jeſſey,</hi> and as to his god-head that he was <hi>the word made fleſh.</hi>
+            </p>
+            <p>Whether the firſt promiſe that God made to <hi>Adam</hi> of the ſeed of the womans
+breaking the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erpents head, was ſpoke to him of Chriſt that was to come as the ſon of
+<hi>Mary?</hi> or was it ſpoke of ſomthing within that Perſon to be the Chriſt without
+relation to that Perſon? explain.</p>
+            <p>And ſince the Prophets depend<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d on God for ſalvation by Chriſt that was to come, whether
+it was not Chriſt in his perſon they looked unto for the Saviour, and not the light in Chriſt
+without the perſon of Chriſt? explain, ſince they foretold of him as that wonder that God
+would bring to paſs, that a woeman ſhould conceive with a man-child and bring him forth without
+the help of a man.</p>
+            <p>And ſince as it doth appear by <hi>Abraham</hi> that this was their faith, by
+<pb n="4" facs="tcp:46578:4"/> what Chriſt ſpoke of him, that <hi>ſeeing his day he rejoyced;</hi> and by
+<hi>Job</hi> that ſaid, <hi>that he knew that his Redeemer lived, and that he ſhould ſee him
+at the laſt day,</hi> whether if Chriſt be not Chriſt in perſon, what is become of the
+Patriarks and Prophets ſince for ſalvation on him they put their truſt? explain.</p>
+            <p>Since in his body as the ſcriptures ſay, <hi>he bore our ſins, and carried our griefs, and
+was ſmitten for our tranſgreſſions, through whoſe ſtripes we are healed, for that God
+laid on him the iniquity of us all,</hi> whether he be to be beleived for Chriſt in this his
+perſonal capacity according to the Scriptures, or that the light in the conſcience (a meaſure
+of which every man hath that is born into the world) be he the Chriſt, of which nothing in the
+Scriptures? explain: for that the Scriptures ſay that by the death of the body upon the croſs
+he reconciled us unto God, and that he foretold his death, and that he would raiſe it up from
+death in three days.</p>
+            <p>VVhether Chriſt as he is King, Preiſt and Prophet whom God hath made higher then the
+Heavens, be the Chriſt that appeared to his diſ<g ref="char:EOLhyphen"/>ciples after his reſurrection from the dead
+in that body he bid them handle and ſee, ſaying, <hi>it is I myſelf, for a ſpirit hath not
+fleſh and bones as I have,</hi> or the light in your conſciences is the Chriſt that God hath
+exalted higher then the Heavens as King, Prieſt, and Prophet? explain.</p>
+            <p>And in that Chriſt was transfigured in his Apoſtles ſight with the appearance of
+<hi>Moſes</hi> and <hi>Elias</hi> on the Mount, whether was he tranſ<g ref="char:EOLhyphen"/>figured as Chriſt in his
+perſon without them, or was it the light in his Apoſtles conſciences within them explain,
+Since they ſaid, <hi>Maſter it is good that we ſtay here, let us make three Tabernacles, one
+for Thee, one for</hi> Moſes, <hi>and one for</hi> Elias.</p>
+            <p>And in that it is ſaid concerning Chriſts aſcention, while he was ſpeaking theſe
+things <hi>he was taken up, and a cloud received him out of their ſight; and this ſame Jeſus
+ſhall ſo come in like manner as you have ſeen him go into Heaven, whom the Heaven muſt
+receive until the time of reſtitution of all things,</hi> whether he thus aſcended be not now
+Chriſt
+<pb n="5" facs="tcp:46578:4"/> the glorified of the Father WITHOUT us, as well as he was Chriſt when he was
+upon earth WITHOUT them? explain.</p>
+            <p>And in that he ſaid, <hi>I aſcend to my Father and your Father, to my God and to your
+God,</hi> whether he ſpoke of himſelf as the Chriſt perſonal in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> body without them, or of
+a Chriſt you call light within you? explain <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or that the faith of his Diſciples was on him as
+Chriſt without them, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s their Doctrine by the Scriptures at large doth ſhow.</p>
+            <p>And if the light that was in his Apoſtles conſciences was not Chriſt; but <hi>he</hi>
+their Maſter who taught them to beleive on him to be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Chriſt, that believing they
+might be ſaved, whether you by af<g ref="char:EOLhyphen"/>firming that the witneſs in you is Chriſt (which witneſs
+you call light) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not a Chriſt of your inventions, and ANOTHER CHRIST <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen what is <hi>the
+Chriſt of God?</hi> explain.</p>
+            <p>And in that it ſaith, <hi>he that hath not the ſpirit of Chriſt is none of his, and that
+none can receive the ſpirit, but he who beleiveth on Chriſt,</hi> who is the giver of the
+ſpirit, whether the ſpirit you walk by is the ſpirit of Chriſt or the power of Magick?
+explain, ſince you deny him to be the Chriſt that in his p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſon was the offering for ſin,
+and the Saviour of the world, and <hi>inſtead of him</hi> ſet up the light of nature to be the
+Chriſt, and its power for your Saviour,</p>
+            <p>Whether the revelation that was given to <hi>John,</hi> was given by Chriſt the glorified of
+the Father in his perſon in heaven, or from <hi>Johns</hi> light in his conſcience,
+<hi>John</hi> being on earth? explain.</p>
+            <p>Whether <hi>the Lamb that ſits upon the throne of the antient of days, who was dead and is
+alive and lives for evermore</hi> be Chriſt, and giver of e<g ref="char:EOLhyphen"/>ternal life to them that believe and
+follow him in the regeneration, or the light in conſcience, a meaſure whereof every man hath
+that cometh into the world, be Chriſt? explain; for that the light in every mans conſcience is
+the light of creation; but the gift of God is the ſpirit of Chriſt that brings unto the
+travelling ſoul the light of Chriſt by revela<g ref="char:EOLhyphen"/>tion, according to the promiſe through
+beleiving on him.</p>
+            <p>
+               <pb n="6" facs="tcp:46578:5"/>Whether the blood of Chriſt that attoned for man with God was blood,
+<hi>quatenus</hi> blood, from and off his humanity, or the life of Chriſt as Chriſt is God, is
+it (without the blood of his humanity) the attoner? explain; and if it be the life in Chriſt as
+Chriſt is God that at<g ref="char:EOLhyphen"/>tones, and the blood of Chriſt as Chriſt is man not that, that doth
+attone ſhow how the life of God is blood, and unto what uſe it ſerved, his ſhedding of the
+blood of his man-hood?</p>
+            <p>Whether the righteouſneſs of Chriſt that Chriſt puts upon his Saints be not the
+righteouſneſs of Faith by believing on him as juſti<g ref="char:EOLhyphen"/>fier, from his perfect obedience to God,
+by his fulfilling the requi<g ref="char:EOLhyphen"/>rings of God in the Law? explain; for that it is written,
+<hi>bleſſed is the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rn whoſe ſins are pardoned, and whoſe iniquities are covered; again
+bleſſed is the man to whom God imputeth not ſin.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="7" facs="tcp:46578:5"/>
+            <head>Quaeries upon the fifth page.</head>
+            <p>WHether ſince you ſay that <hi>God hath ſo loved the World that he hath given his only
+begotten Son to dye for the World, that they <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at believe on him ſhould not periſh but have
+everlaſting Life,</hi> whether, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Son of God be Chriſt that the Angels told the Shepherds
+was that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay born for a Saviour, whom they ſhould find laid in a manger, who was wrapt up in
+ſwadling cloaths, whoſe name God ſaid ſhould be called <hi>Jeſus,</hi> or is the light in
+conſcience that within you, <hi>he?</hi> explain.</p>
+            <p>Whether he that was conceived of the Holy Ghoſt and born of the Virgin <hi>Mary,</hi> as he
+perſona ly walked upon the Earth in ſubſtance of a Man be Chriſt, and the only begotten Son
+of God, and Mans Saviour is thus he was <hi>without</hi> them, or is the light in conſcience the
+Chriſt and the Saviour as it is light in conſcience <hi>within</hi> man? explain.</p>
+            <p>Whether Chriſt or the Apoſtles at any time taught the light in man for the Chriſt and the
+Saviour, or Chriſt the man in perſon with<g ref="char:EOLhyphen"/>out them, for the Chriſt and Saviour? explain.</p>
+            <p>Whether Chriſt that came into the VVorld to ſave the World, <hi>who while he was in the
+World, was the light of the World,</hi> being gone out of the World unto his Father, be not now the
+light of the World by the miniſtration of preaching through the operation of his Spirit, as he
+was the light of the world when in the world by the miniſtration of preaching of his death,
+ſufferings and reſurrecition? explain: Since his being in the world was to work Salvation for
+the world by his death, and being gone out of the world now manifeſts the Salvation, which while
+being in the world he wrought being riſen from the dead.</p>
+            <p>Whether the Faith of Gods elect that purifieth the heart and giveth victory over the world, is
+not the hand that receiveth the power, by be<g ref="char:EOLhyphen"/>lieving
+<pb n="8" facs="tcp:46578:6"/> on Chriſt the giver of the grace to beget us unto God, childre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the
+Kingdom, or is it by believing the witneſs in man, which yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> call the light in conſcience which
+is but the ſpirit of man, that which <hi>Solomon</hi> calls <hi>the Candle of the Lord,</hi> that
+gives victory over the worl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the heart? explain.</p>
+            <p>Whether the Holy Ghoſt that proceeds from the Father, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Son, as proceeding from Father
+and Son be in the efflux both Fathe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Son? explain. Since you deny in print three
+ſubſiſtences in the <hi>one</hi> divine eſſence; and that they are not diſtinct in
+their operations as three, <hi>father, word, and ſpirit.</hi>
+            </p>
+            <p>Whether the <hi>water blood and ſpirit</hi> that bore witneſs to Chriſt o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> earth, were
+properties of his humanity, or of his divinity? explain<g ref="char:punc">▪</g> And if of his divine natue and not of
+his humane, what was it of Ghriſt that cryed upon the croſs, <hi>My God, my God, why haſt
+thou forſaken me.</hi>
+            </p>
+            <p>Since the Scriptures ſay that it behoved the Chriſt to dye, and it be<g ref="char:EOLhyphen"/>ing unpoſſible for
+God to dye; whether the light in conſcience which you call Chriſt, be the Chriſt that ſo
+dyed, or the perſon be the Chriſt that dyed? explain.</p>
+            <p>Whether, ſince there is but one Goſpel, is it the power of the light in conſcience,
+according to your Doctrine, or is it the death, buriall and reſurrection of Chriſt according to
+the Scriptures, yea or nay! ex<g ref="char:EOLhyphen"/>plain.</p>
+            <p>Whether the price that bought man to God be the blood of Chriſts perſon, ſince it was of
+the body God prepared to do his will, or was it the life of God in that body that was blood?
+explain: And if the life of the Godhead is blood, ſhow us how it came to be blood, ſince
+without blood there is no remiſſion.</p>
+            <p>Whether the Lamb that purchaſed his Church by his own blood to preſent it without ſpot to
+God, was Jeſus of whom the Prophet ſaid, <hi>he was led as a Lamb to the ſlaughter, and as a
+ſheep before the ſhearers, he opened not his mouth,</hi> Or the light in man is this Chriſt
+off whom the Prophet ſpake? explain. For that of him in his perſonal appearance, <hi>John</hi>
+the Baptiſt ſaid, <hi>behold the Lamb of God that takes away the ſins of the World.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:46578:6"/>Whether the word without <hi>Maries</hi> ſubſtance for his body is the whole
+Chriſt, or the word with the ſubſtance taken of <hi>Mary</hi> be the Chriſt? explain. For
+of Chriſt the Scipture ſpeaks in two diſtinctions as of two natures in the acting, though one
+in conjunction in the act, as he is the <hi>word,</hi> God in Chriſt, and as <hi>man,</hi>
+Chriſt in whom God was as written god was in Chriſt reconciling, and Chriſt him by whom the
+world was reconciled to God, and the word being one with and in Chriſt, whether the whole
+Chriſt through the words aſſuming the hu<g ref="char:EOLhyphen"/>mane Nature to his divine, be not God; the divine
+and humane nature making up the whole perſon of Chriſt? explain.</p>
+            <p>And ſince it is written of the Son, <hi>thy Throne O God is for ever and ever; a ſcepter of
+righteouſneſs is the ſcepter of thy Kingdom, thou haſt lo<g ref="char:EOLhyphen"/>ved righteouſneſs and hated
+iniquity, therefore God even thy God hath a<g ref="char:EOLhyphen"/>nointed thee with the oyl of gladneſs above thy
+fellows,</hi> whether this Son of God is <hi>he</hi> that took upon him in his perſon for mans
+redemption the ſtate of a ſervant, accounting it no robbery to be equal with God and <hi>his
+fellow;</hi> or is it the light in conſcience (you ſay is Chriſt) who is this exalted <hi>Man
+Gods fellow,</hi> whoſe throne is for ever? explain.</p>
+            <p>But for your aſſerting of many Scriptures that relate to Chriſt for the redemption of man,
+I know no profeſſors that deny them, as they teach faith to him, the Son of God: But your
+bringing them to co<g ref="char:EOLhyphen"/>lour your ſelves in your opinion of the light in you to be the Chriſt that
+<hi>I</hi> ſuppoſe they do deny, and bring them for a witneſs againſt you for your
+convincement: And <hi>I</hi> having this knowledge, ſee not wherein you are wronged in being
+charged to deny God and Chriſt in a place above ſtars, Sun, Moon and Elements, ſince what is
+ſaid by you to the contrary ſpeaks not of place but power, and your ſaying you own his
+aſcention, and yet denyed his perſonal body to be aſcend<g ref="char:EOLhyphen"/>ed, puts me upon this Quaery.</p>
+            <p>Whether you own Chriſt as a perſon aſcended up into a Heaven, that is, a place of
+reſidence whereinto he is aſcended far above ſtars, Sun, Moon and Elements? explain.</p>
+            <p>From the 5 page to the 8 I paſs over, being but the ſame ſpoke to
+<pb n="10" facs="tcp:46578:7"/> before: But that you ſay in the 8 page Chriſt is the true light that
+en<g ref="char:EOLhyphen"/>leightneth every man that comes into the world, you err not, knowing the Scriptures; for they
+ſay not that Chriſt made all things; for that as Chriſt is man, he is made, but as the
+manhood is united to the word who is God, and that the two natures in Chriſt are not to be
+divided, ſo it may be ſaid that he made them by his head, and the head of Chriſt is God: For
+we find no where in Scripture that it is ſaid, of Chriſt as he is Man of the <hi>Virgin
+Mary,</hi> that in him was the life that inlightneth every Man, but in reference to the word that
+dwelt bodily in him.</p>
+            <p>From whence we quaery, whether this Chriſt of whom <hi>John</hi> ſaid was the Chriſt, be
+he, or the light in Man the Chriſt that <hi>G. F.</hi> ſaith is the Chriſt? explain: and if
+the Chriſt that <hi>G. F.</hi> ſaith is the Chriſt be <hi>he,</hi> I deſire to know of
+<hi>G. F,</hi> or his <hi>Diſciples</hi> what is become of the Chriſt whom the Scriptures bears
+record to be he, Since you deny him in heaven the exalted of God, for his Chriſt in a
+perſon.</p>
+            <p>Whether, ſince you ſay it is the light that enlightneth every Man that comes into the world,
+and the light is Chriſt, by this aſſertion is not the light God, and God the Chriſt?
+explain.</p>
+            <p>And if the light be God, and God is Chriſt, and not the perſon the Chriſt, then, when
+Chriſt dyed was it not God that dyed, and him that was nailed upon the Croſs? explain. Since it
+is written of him that is the Saviour, <hi>that by death he deſtroyed him that had the power of
+death; to wit, the Devil.</hi> And if it was God that dyed, and buried as dead, who or what was
+there in Heaven or in Earth that did or could raize up God from the dead? explain.</p>
+            <p>And your ſaying that with the light they ſaw the blood of Chriſt: I ſay they did: For he
+whoſe Teſtimony is true was by when the Lord was put to death, who ſaith, <hi>That which we
+have ſeen with our eyes and looked upon, and handled with our hands, and have heard from the
+beginning declare we unto you, that your fellowſhip may be with us, and our fellowſhip is with
+the Father and the Son in the light:</hi> Therefore whether by the light
+<pb n="10" facs="tcp:46578:7"/> in Man doth Man come to ſee Chriſt and his blood in himſelf, that
+Chriſt ſhed for cleanſing from all ſin, or by Faith, ſee the me<g ref="char:EOLhyphen"/>rit of the blood ſhed
+upon the Croſs, to the receiving the promiſe to wit, the Spirit that cleanſeth the
+conſcience from all ſin?</p>
+            <p>Whether Chriſt is the true light as he is the Son of God perſo<g ref="char:EOLhyphen"/>nally come in fleſh without
+man, or the light in the conſcience be the true light and Saviour that is in Man? explain.</p>
+            <p>Whether ſince we are to wait upon Chriſt for the receiving of his Spirit, is Man to wait
+upon the light in his conſcience as his Chriſt and giver of the Spirit or upon Chriſt who is
+without him as the Chriſt and ſender of the true Spirit? explain.</p>
+            <p>Whether <hi>Peters</hi> witneſs in his conſcience, who confeſſed to Chriſt to be the
+Son of God, who had the words of Eternal Life, was not as much God and Chriſt as the witneſs in
+you? explain.</p>
+            <p>Whether <hi>Peter</hi> truſted in the witneſs in his conſcience for his Saviour, or
+expected Salvation by it, and not in Chriſt, that ſaid unto him, <hi>when thou art converted
+ſtrengthen the b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ethren?</hi> explain.</p>
+            <p>Whether <hi>Cornelius</hi> that feared God, and walked righteously be<g ref="char:EOLhyphen"/>fore him, in Prayers,
+Faſtings, and giving of Alms, from an awake<g ref="char:EOLhyphen"/>ned conſcience that ſtood in ſubjection to God,
+had Salvation from the light in his conſcience, or from Chriſt the Son of God, whom
+<hi>Peter</hi> preached to him for Saviour without him? explain.</p>
+            <p>Whether <hi>Cornelius</hi> did believe the witneſs in his conſcience to be God and Chriſt.
+and to this witneſs as God or Chriſt Faſted, Prayed and gave Alms, that by his works his
+witneſs as God or Chriſt ſhould ſave him, or did he believe on God who hath made the
+Heavens and the Earth, whoſe dwelling is in that high and lofty place of Eternity? explain.</p>
+            <p>And being ſaid, <hi>Zacheus, this day is Salvation come to thy houſe,</hi> whe<g ref="char:EOLhyphen"/>ther
+<pb n="12" facs="tcp:46578:8"/> it was Chriſt that brought Salvation, who that day came to him, he being the
+Saviour that gives Salvation, or <hi>Zacheus</hi> light in his conſcience that that day brought
+Salvation unto h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> explain.</p>
+            <p>Whether the witneſs or light in <hi>Pauls</hi> conſcience that lead h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to perſecute the
+church of Chriſt, from his zeal he had to Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being inſtructed in <hi>Moſes</hi> Law, was
+God, Chriſt, or Saviour, Chriſt, <hi>even Jeſus of Nazareth</hi> who ſpoke to him in a
+bright ſhini<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> light out of Heaven, <hi>Saul, Saul, why perſecuteſt thou me?</hi> explain.</p>
+            <p>Since it is ſaid Chriſt in you the hope of Glory, whether Chri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be in Man before he is
+revealed by God in Man? explain? For is written that the Spirit of Chriſt the World cannot
+receiv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> becauſe ſaid he they do not believe on me.</p>
+            <p>And Chriſt being revealed in Man, whether it means himſelf i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> perſon, or his Spirit who
+give the knowledge of God in the Fac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Chriſt, by bringing in the light of Chriſt in which he
+is gloryf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed into tho heart, that fills the heart with exceeding joy in belie<g ref="char:EOLunhyphen"/>ving? explain, Since
+that <hi>Paul</hi> ſaith, <hi>While in the body abſent fre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Lord, and thence deſires to
+go hence to be preſent with the Lord.</hi>
+            </p>
+            <p>And in that the body muſt be put off, for that it hinders the in<g ref="char:EOLunhyphen"/>ward Man in its being with
+the Lord; Quaery, what is this inward man? Is it a creature or is it God? Is it the Spirit of Man
+that God ſaid he would not always contend with, for if he ſhould i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would fail before him, and
+the Soul that God hath made: or is it Chriſt? explain. And the inward man of the heart being
+abſent from Chriſt the Lord whilſt it is in this body, whether Chriſt as he is in his own
+being be not diſtinct and apart of himſelf without and ſeparate from his creatures, and the
+Man in heart diſtinct and apart as a creature, and own ſelf ſubſiſtence? explain.</p>
+            <p>Whether the ownneſs of Chriſt and his Saints be ſuch an incor<g ref="char:EOLunhyphen"/>porated unity, that from
+their conjunction with him they are o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="13" facs="tcp:46578:8"/> Chriſt without ſeperability? or whether the Union of the Saints <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God
+and Chriſt be the heavenly injoyment, wherein the is fel<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wſhip with God and Chriſt in the
+light? explain.</p>
+            <p>Since in divine writ it is ſaid of God, <hi>I the Lord create the darkneſs, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> form the
+light,</hi> whether the light that God formed is not natural? <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſince it is alſo ſaid,
+<hi>if the light in you be darkneſs, how great is that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dneſs;</hi> which light in man being
+his ſight, is it of any other quality <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the light of nature which God hath formed?
+explain.</p>
+            <p>And the light in man being but a formed light that God hath created, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hether this light be
+Chriſt the ſon of God, as the word that was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od, that with the creature is become the Chriſt
+and mans Saviour? <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>plain.</p>
+            <p>And ſince of man it is written that <hi>he is the Image of God,</hi> whether he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the
+Image of God, as God is God in his Deity, or is the Image of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od in a creatural form from Gods
+principles of nature? explain.</p>
+            <p>And if man be the Image of God in his Deity, as God is God, who out and beyond all nature and
+creature, how is it poſſible otherwiſe be, but ſo many men ſo many Gods? explain: and if
+this could in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y poſſibility be admitted, then is not the omnipotency in the crea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re as a God?
+and if ſo how is it poſſible for him to be condemned?</p>
+            <p>And ſince the light and darkneſs is the creation of god, and but his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eation, it is
+manifeſt the creation is not he himſelf; and the creature <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing a ſubſtance created out of
+nature, having in him darkneſs and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght, whether the creature in his creat be as a creature any
+thing more, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a creature conſiſting of a natural make? explain.</p>
+            <p>And ſince the Body returns to duſt, and the Spirit to God, that gave <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what is the
+nature of that body, and its properties, and what is the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ature of the Spirit, and the properties
+of it, in that it goeth to God, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at gave it at the breaking of the body, ſince it never dyeth but
+abideth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever? explain.</p>
+            <p>
+               <pb n="14" facs="tcp:46578:9"/>And ſince you ſay that the ſoul of Man is not a creature; and that th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+ſoul is ſaved or damned, and that the ſoul is of an Eternal ſubſiſtency whether if the
+ſoul is no creature, is it God, and if God doth he ſav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part of himſelf in ſome men, and
+part of himſelf in others damn? ex<g ref="char:EOLunhyphen"/>plain.</p>
+            <p>For the reſt of your Paper, <hi>I</hi> paſs it over, acknowledging that theſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> principles
+for yours have been publiſhed to the World before now to wit. 1. That the light of or in
+conſcience (a meaſure whereof e<g ref="char:EOLunhyphen"/>very man hath that comes into the world) is Chriſt the
+Juſtifier, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> advocate, the mediator, the Redeemer and the Saviour. 2 That th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſufferings
+death, reſurrection and aſcention of Chriſt, and his blood i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but the profeſſors ſtuff.
+3. That Chriſt was not Chriſt in his perſon but that which was Chriſt was ſomething that
+was in his perſon 4. That Chriſt dyed not for ſatiſfaction but for example. 5. Tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the
+mercy of God without any ſatisfaction by Chriſt, made to God fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> man doth ſave the creature,
+as the creature is obedient unto the ligh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in his conſcience. 6. That the Father, Word Spirit,
+are not thre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſtinct operators in the Divine eſſence. 7. That the blood of Chriſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doth
+not at one for man with God, and that his body is not aſcended into heaven: Theſe I acknowledge
+arr publiſhed for your principle to the world before now.</p>
+            <p>And in that you packed up together ſo many Scriptures, as if yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> believed Chriſt and
+ſalvation by him, as they bear record to him; knowing you dance as in a Net; concern my ſelf to
+direct theſe Qua<g ref="char:EOLunhyphen"/>ries unto you for explanation, that the truth which is pure in it ſelf may not
+be vailed through falſe gloſſes; and you returning a <hi>Chriſtian like anſwer to what is
+here preſented in truth and ſimplicity, without Ser<g ref="char:EOLunhyphen"/>pentime twinings and falſe gloſſes,
+will give us hope that at length, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you believe the ſcriptures that you have ſo largely in
+ſhow brought</hi> you may come to ſit down with the children of Chriſt in the Faith tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+leads up unto Eternal Life, which if it may appear, <hi>I</hi> ſhall hope you <hi>inſides</hi>
+may come to be much better known, then they are now, being
+<pb n="15" facs="tcp:46578:9"/> through Faith waſhed in the blood of the Lamb, whatever your <hi>outſide
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</hi>
+            </p>
+            <p>And you, <hi>my old Acquaintance,</hi> to you I write as one from God that have found mercy,
+from believing and depending upon his Name by Jeſus Chriſt, who is the glaſs, that you may
+ſee his glory in him being <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is glaſs, in whoſe Face the glory of the Father only can be
+ſeen; and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>owing that your inward Man of your hearts is in bondage by the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onds of darkneſs in
+your inward deeps; and that thoſe bonds cannot <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e broken by <hi>any</hi> but by <hi>Chriſt</hi>
+that hath the key to open the book and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o break off the Seals, <hi>I</hi> do pray that the eyes of
+your minds may be en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ightned to look up to him by that ingrafted word of Faith, which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>akes of him
+(as the hand (his Spirit to unlock the ſhut up gates of our hearts, <hi>that the King of Glory
+may come in;</hi> which hitherto being lock<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d up, the Priſoner of hope cannot come forth;
+although it has the pro<g ref="char:EOLhyphen"/>miſe from the covenant that God hath made to Chriſt, that by his blood
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e will ſend it forth out of the deep Pit wherein there is no waters.</p>
+            <p>And therefore I ſay to you that <hi>the Principle</hi> upon which you bot<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om, being <hi>not
+Christ,</hi> but light of and in <hi>Nature,</hi> is nor that that can <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eliver your Souls out of
+the Jaws of Death, and bring you into the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and of reſt, for worm <hi>Jacob,</hi> the hidd n man
+in the heart obtaineth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot unto Gods ſalvation, although for it is ordained from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he
+purchaſement of our Lord Jeſus Chriſt, till that the bright <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eams of the Lord, the Chriſt
+ſhines into the heart, from the Lamb <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat ſits with God upon the Throne; for the goodly Tents
+of <hi>Jacob</hi> is a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>abitation of light in the Lord; and Chriſt the Lord, who is his light
+when he appears brings the light for his <hi>reſt,</hi> the ſtreams whereof make <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lad the City
+of my God, which light of Chriſt being from above, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the ſupernatural light, whoſe
+iſſuing beams no man knows, nor can <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>now but the elect of God to whom it is given through the
+Faith that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in him.</p>
+            <p>And <hi>my old Friends; I</hi> would that I might freely ſpeak to you with<g ref="char:EOLhyphen"/>out offence, then
+would I ſay that the light that is in you as you are creatures by make from the firſt
+<hi>Adam</hi> is not the light of which I ſpeak that is his habitation for his Saints: For
+<hi>he</hi> that ſaid, <hi>I am the light, and he that believes on me ſhall not walk in
+darkneſs but</hi> I <hi>will raiſe them up
+<pb n="16" facs="tcp:46578:10"/> at the laſt day, is Chriſt Jeſus</hi> who was put to death in the
+fleſh, b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> juſtified in the Spirit, that he may give light and life, to all them th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> believe on
+him, and in Faith obey to the receiving of the promiſe, b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the light of and in man he ſaith,
+<hi>if the light in you be darkneſs how gre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is that darkneſs, but of the light that proceeds
+from the Sun, thus he ſpea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the light ſhineth in darkneſs, and the darkneſs comprehendeth
+it not; whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> being the light that doth accompany the goſpel is the ſalvation of the Saint that
+the goſpel hath purchaſed for them, of which he ſaid, ear hath not hear nor eye hath not
+ſeen what the father hath prepared for them that love him</hi> Which being the light of the
+Goſpel far excels the light in Natu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which God as Soveraign Lord hath planted in mans heart for
+ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> guide to lead him out of himſelf to Chriſt the ſecond <hi>Adam</hi> by who<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the entring
+in is into the reſt that God hath prepared for them befo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the World was made.</p>
+            <p>
+               <hi>And my old friends,</hi> I would that none of you fall ſhort of entring into his reſt by
+unbelief through the zeal you bear <hi>to your Preacher</hi> that teach you an entrance by work of
+obedience to the light of Natu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in you, for verily ſuch Preachers preach to you voluntary humil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+that they may glory in your fleſh: Wherefore it doth remain to y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to walk in the way that is
+appointed that leads up into his reſt! leaſt any miſtakes by witchcraft in Spirit you take
+the way of your own i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vention, and fall ſhort of entring into his reſt: For that it is cert<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+that by no other way under Heaven we can enter into this reſt; b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by Faith in him who is both
+<hi>Lord and Chriſt:</hi> For him hath God ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed; Wherefore look ye up unto him who is ariſen
+from the dead, a is aſcended into the majeſty on high, where the principalities a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> powers and
+thrones fall down and worſhip the <hi>antient of days, and Lamb that ſits upon his throne, For
+Chriſt</hi> of whom we ſpeak hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> off the Grave, and is ariſen from the T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbs in which
+he was laid; <hi>Chriſt</hi> of whom you ſpeak (the light in you) it is in the Grave, and
+Grave-cloaths wraps it up in the deeps of your heart, from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here cannot come forth but by <hi>him,
+who is the Reſurrection of the deed,</hi> wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> voice being heard within your hearts; your dead
+hearing the voice the Son of God comes forth and lives: and without his voice <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you up, you
+dye eternally, whatever you ſay from your believing in
+<pb n="17" facs="tcp:46578:10"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itneſs of your conſciences for your Saviour? For here <hi>it is not of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n
+thrt willeth nor of him that runneth, but of God that ſheweth a mercy.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake heed that no man
+deceive you? For the Spirit foreſeeing what <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould be in the latter days, foretold a departure
+from the Faith, and at men ſhould riſe up bringing in moſt <hi>o amnable Errors, denying the
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd that bought them; and many ſhould follow their pernicious ways, of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em the way of truth
+ſhould be evil ſpoken off.</hi> For verily he that entreth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to his reſt muſt come in by
+<hi>Chriſt, the door,</hi> without which there is no <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p: But you rejecting him and taking to
+your ſelves another way <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnot enter in into his reſt, although the gates ſtand open.</p>
+            <p>And you that ſay you have the power to do wonderful things, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ropheſie in his Name, are
+not you they of whom he ſpeaks, that when the Son of man, ſhall ſit upon his Throne, and all
+his Angels with him that ſhall come and ſay; <hi>Lord, Lord, open unto us?</hi> To whom he
+ſhall anſwer, <hi>Depart from me ye workers of iniquity, I know you not, who hath re<g ref="char:EOLhyphen"/>quired
+theſe things at your hands, for did you do the things you did at all <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>to me.</hi>
+            </p>
+            <p>Therefore unto you, <hi>my old acquaintance</hi> write I this, that you may eſcape the errors
+of percition leaſt in you be found an evil heart of unbelief: departing from the living God, and
+ſo you fall ſhort of that reſt that God hath prepared for thoſe that love the Lord Jeſus,
+and believe that God and our Father hath ſent him, the love of his boſome to be the ſaviour
+of the World.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Brethren, the grace of God the Father, and of our Lord Jeſus Chriſt, keep your hearts by
+the holy Ghoſt by, ſaith unto the end; that ſo the Crown of ever laſting life you may not
+fall ſhor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> off through unbelief; for what ſhall it profit a Man to gain the whole World and
+loſe his own ſoul, ſearch the Scrip<g ref="char:EOLhyphen"/>tures, they teach of him; compare your opinions with
+their Doctrine beleive their authority; for they are faithful witneſſes unto his Name. Be
+faithful to him that hath called you to the goſpel of his dear ſon, by whom is the gift of
+Eternal Life. Peace be unto all men from God our Father, and from our Lord Jeſus Chriſt in the
+fellowſhip of the Holy Ghoſt, Is the prayer of him who wiſheth your tranquility in God, known
+by the name off</hi>
+                  </p>
+                  <closer>
+                     <signed>R. C.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="18" facs="tcp:46578:11"/>And before I cloſe this Paper, I cannot but give a hint of this moſt
+hideous impious blaphe<g ref="char:EOLhyphen"/>my that is ſtarted up from thoſe Monſters of conceit, who declare
+themſelves the two witneſſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpoken off in the Revelations; and that they are the two
+prophets, who have received com<g ref="char:EOLhyphen"/>miſſion to damn and to ſave whom they will, and do exerciſe
+their pretended commiſſion up<g ref="char:EOLhyphen"/>on them by Magick, curſing them that will not receive them as
+they give themſelves out to be And that they are the laſt miniſtration and diſpenſation
+that ſhall come: Who being poyſoned in their underſtandings from a corupted heart do not
+ſtick blaſphemouſly to affirm that when the Lord Jeſus Chriſt dyed for the ſins of the
+World, that the total God and Father of our Lord Jeſus Chriſt dyed alſo; And that when he
+took his Journey unto the Earth, he left the government of heaven to <hi>Moſes</hi> and
+<hi>Elias.</hi>
+            </p>
+            <p>But in that of God it is ſaid, <hi>I the Lord change not, therefore O you ſons of Jacob you
+are not; conſumed:</hi> Therefore I preſent to theſe prophane men theſe Quaeries, to wit.
+1. Whether if the Almighty God who hath made the Heavens and the Barrh, and upholdeth all things by
+his power, did dye, what was therein the heavens or the earth that could uphold the works of his
+hands; And if that he did dye, who or what could raiſe him up from the dead. 1. If the total God
+that is eternal dyed, was not the infinite become finite. 3. If it had been poſſible for God to
+dye, and that he did dye, <hi>we<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not he that was, and is, and is to come, who it the Alpha and
+Omega, and the beginning and the ending,</hi> extinct. 4. If that he dyed and is raiſed from the
+dead, was not that that raiſed up from the death greater then he. 5. If death prevailed over him,
+and that by death he was dead was not death greater then God. 6. If death laid ſome hold upon
+him, that by its power his life was at an end, what could have broken death a<g ref="char:EOLhyphen"/>ſunder for the
+redemption of Man.</p>
+            <p>But Chriſt having foretold that in the latter days falſe Prophets, and falſe Chriſts
+ſhould come, which propheſie of Chriſt we ſee accompliſhed this day, Therefore I leave
+theſe blaſ<g ref="char:EOLhyphen"/>phemous magick Prophets, unto their own pit entombed in Sathans darkneſs.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46578:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
